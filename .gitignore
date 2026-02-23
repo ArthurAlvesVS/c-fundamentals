@@ -1,0 +1,11 @@
+# VS Code
+.vscode/
+
+# Executáveis
+*.exe
+*.out
+a.out
+
+# Objetos
+*.o
+*.obj
